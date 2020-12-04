@@ -1,5 +1,5 @@
 #Guess the Word-
-  Please download the text file to run the code.
+  Please download the text file to in the same folder as the code when running.
   This code takes in a text file with 1000 words and develop a hangman-like game where the player uses the keyboard letters to guess the word being generated. The     player has 10 guesses and at the end the correct word is displayed.
  
 #Invaders-
